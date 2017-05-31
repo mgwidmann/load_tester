@@ -1,0 +1,8 @@
+/* This file is for your main application css. */
+
+#responses {
+  max-height: 50vh;
+  overflow: scroll;
+  border: 1px dotted black;
+  padding: 5px;
+}
